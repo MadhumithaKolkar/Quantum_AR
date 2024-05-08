@@ -6,9 +6,6 @@ Quantum_AR is an augmented reality (AR) application that overlays digital conten
 ![1-ezgif com-video-to-gif-converter](https://github.com/MadhumithaKolkar/Quantum_AR/assets/54811937/fa77bfae-2e2b-49b0-aeaf-42db07d418b9)
 
 
-![image](https://github.com/MadhumithaKolkar/Quantum_AR/assets/54811937/603c29e8-ab27-4c2a-b722-9ebd6d27a780)
-
-
 ## Features
 - Real-time augmented reality overlay
 - Feature detection using ORB algorithm
@@ -31,6 +28,7 @@ Usage
 
 Link : https://www.linkedin.com/posts/madhumithakolkar_computervision-realtime-augmentation-activity-7191706961178947586-_LUZ?utm_source=share&utm_medium=member_desktop 
 
+![image](https://github.com/MadhumithaKolkar/Quantum_AR/assets/54811937/603c29e8-ab27-4c2a-b722-9ebd6d27a780)
 
 Credits
 Developed by Madhumitha Kolkar
