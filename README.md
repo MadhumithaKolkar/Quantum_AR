@@ -3,7 +3,7 @@
 ## Overview
 Quantum_AR is an augmented reality (AR) application that overlays digital content onto live camera feeds in real-time. Using computer vision techniques, this project detects keypoints in an input image, matches them with keypoints in a live camera feed, and seamlessly integrates digital augmentations into the real-world scene. It offers an immersive AR experience by combining feature detection, feature matching, and perspective transformation to align digital content with physical surfaces.
 
-![1-ezgif com-video-to-gif-converter](https://github.com/MadhumithaKolkar/Quantum_AR/assets/54811937/fa77bfae-2e2b-49b0-aeaf-42db07d418b9)
+![image](https://github.com/MadhumithaKolkar/Quantum_AR/assets/54811937/603c29e8-ab27-4c2a-b722-9ebd6d27a780)
 
 
 ## Features
@@ -28,7 +28,7 @@ Usage
 
 Link : https://www.linkedin.com/posts/madhumithakolkar_computervision-realtime-augmentation-activity-7191706961178947586-_LUZ?utm_source=share&utm_medium=member_desktop 
 
-![image](https://github.com/MadhumithaKolkar/Quantum_AR/assets/54811937/603c29e8-ab27-4c2a-b722-9ebd6d27a780)
+![1-ezgif com-video-to-gif-converter](https://github.com/MadhumithaKolkar/Quantum_AR/assets/54811937/fa77bfae-2e2b-49b0-aeaf-42db07d418b9)
 
 Credits
 Developed by Madhumitha Kolkar
