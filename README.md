@@ -29,8 +29,6 @@ Usage
 
 Link : https://www.linkedin.com/posts/madhumithakolkar_computervision-realtime-augmentation-activity-7191706961178947586-_LUZ?utm_source=share&utm_medium=member_desktop 
 
-![1-ezgif com-video-to-gif-converter](https://github.com/MadhumithaKolkar/Quantum_AR/assets/54811937/fa77bfae-2e2b-49b0-aeaf-42db07d418b9)
-
 Credits
 Developed by Madhumitha Kolkar
 
